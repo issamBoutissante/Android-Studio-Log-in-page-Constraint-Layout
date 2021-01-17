@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstaintLayout</string>
+    <string name="log_in">Log in</string>
+    <string name="user_name_">User Name :</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="password_">Password :</string>
+    <string name="login">Login</string>
+</resources>
